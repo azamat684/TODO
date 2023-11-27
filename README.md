@@ -1,2 +1,2 @@
 # TODO
-DRF CRUD 
+DRF(Django Rest Framework) CRUD(Create, Read, Update, Delete) 
